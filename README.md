@@ -1,2 +1,2 @@
-# 20250702-HW-repo
+# Python-learning-progress
 A repo for Homework.
